@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://comun13.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://comun13.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://comun13.com/collections/accessories.atom"/>
+  <title>Comun13</title>
+  <updated>2019-10-16T14:31:46-05:00</updated>
+  <author>
+    <name>Comun13</name>
+  </author>
+  <entry>
+    <id>https://comun13.com/products/4270910570576</id>
+    <published>2019-10-16T14:31:46-05:00</published>
+    <updated>2019-10-16T14:31:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://comun13.com/products/el-primero"/>
+    <title>El Primero</title>
+    <s:type>Oct Style</s:type>
+    <s:vendor>Comun13</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0237/9821/8832/products/mockup-9be2afc4.png?v=1571254187" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Comun13<br />
+        <strong>Type: </strong>Oct Style<br />
+        <strong>Price: </strong>
+            18.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our first Limited product gets the title "El Primero". <br> <br> SIZING: Runs a bit small, but stretches over time. <br> <br> A comfortable, warm knit beanie.<br> • 60% cotton/40% acrylic</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:variant>
+      <id>https://comun13.com/products/4270910570576</id>
+      <title>Black</title>
+      <s:price currency="USD">18.40</s:price>
+      <s:sku>8461827</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comun13.com/products/4270910570576</id>
+      <title>Dark green</title>
+      <s:price currency="USD">18.40</s:price>
+      <s:sku>5014403</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comun13.com/products/4270910570576</id>
+      <title>Navy</title>
+      <s:price currency="USD">18.40</s:price>
+      <s:sku>5687140</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comun13.com/products/4270910570576</id>
+      <title>Red</title>
+      <s:price currency="USD">18.40</s:price>
+      <s:sku>1786421</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://comun13.com/products/4094454366288</id>
+    <published>2019-09-23T17:42:45-05:00</published>
+    <updated>2019-09-23T17:42:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://comun13.com/products/comuna13-tote"/>
+    <title>Comuna 13 Tote</title>
+    <s:type>Sep Style</s:type>
+    <s:vendor>Juliana &amp; Camilo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0237/9821/8832/products/mockup-d948f5b0.png?v=1569012394" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Juliana &amp; Camilo<br />
+        <strong>Type: </strong>Sep Style<br />
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>One of our original choices for a company logo. The design was so awesome that we needed to have it in our lineup.Based on an actual scene in Comuna 13 by <a href="https://comun13.com/pages/juliana-camilo" title="Juliana and Camilo link">Juliana and Camilo</a>.</p>
+<p>Sustainability meets Style with this organic cotton tote bag. Whether it's reducing plastic consumption while grocery shopping or your beach go-to, this bag won't disappoint. </p>
+<p>• 100% certified organic cotton 3/1 twill<br> • Fabric weight: 8 oz/yd² (272 g/m²)<br> • Dimensions: 16” x 14 ½” x 5”<br> • Weight limit: 30lbs (13.6 kg)<br> • 1” wide dual straps, 24 1/2" length<br> • Open main compartment</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:variant>
+      <id>https://comun13.com/products/4094454366288</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>6037939</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+  </entry>
+</feed>

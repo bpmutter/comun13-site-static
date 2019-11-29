@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://comun13.com/blogs/story.atom</id>
+  <link rel="alternate" type="text/html" href="https://comun13.com/blogs/story"/>
+  <link rel="self" type="application/atom+xml" href="https://comun13.com/blogs/story/tagged/company-post.atom"/>
+  <title>Comun13 - Stories</title>
+  <updated>2019-10-29T12:26:00-05:00</updated>
+  <author>
+    <name>Comun13</name>
+  </author>
+  <entry>
+    <id>https://comun13.com/blogs/story/founders-note-video</id>
+    <published>2019-10-14T09:00:00-05:00</published>
+    <updated>2019-10-14T09:01:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://comun13.com/blogs/story/founders-note-video"/>
+    <title>Founder&apos;s Note Video</title>
+    <author>
+      <name>Ben Perlmutter</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<meta charset="utf-8"><span>A brief note from the founders of Comun13, Matt Perez and Ben Perlmutter. See what they have to say about Comun13’s origins and the mission of the organization.  </span><p><a class="read-more" href="https://comun13.com/blogs/story/founders-note-video">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p><span style="font-weight: 400;">A brief note from the founders of Comun13, Matt Perez and Ben Perlmutter. See what they have to say about Comun13’s origins and the mission of the organization.  </span></p>
+<p><span style="font-weight: 400;"><iframe width="560" height="315" src="https://www.youtube.com/embed/OVMKO3S97V8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span></p>
+<h3><span style="font-weight: 400;">Want to Stay Up to Date with Everything Comun13?</span></h3>
+<div class="privy-embed-form" data-campaign="997852"></div>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://comun13.com/blogs/story/our-brand-story</id>
+    <published>2019-10-10T11:57:00-05:00</published>
+    <updated>2019-10-10T12:16:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://comun13.com/blogs/story/our-brand-story"/>
+    <title>Comun13: Our Brand Story</title>
+    <author>
+      <name>Matthew Perez</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p style="text-align: left;">Comun13 is an urban art and fashion brand that sources its designs from local talent in Medellin, Colombia. We aim to highlight our artists and connect our customers to the culture and history of Medellin. </p>
+<p><span style="font-weight: 400;">With us, a cool shirt or painting is only half of the product. Each piece is unique and brought to you from the creative minds of our partnered artists. You’re supporting the artist who designed it. And you’re supporting local youth projects that focus on reducing violence and encouraging creativity through the arts. </span></p>
+<p><span style="font-weight: 400;">With most fashion, you don’t know who designed it, who produced it, or where the money goes. With us, you know exactly who and what your purchase supports. </span></p>
+<h2 style="text-align: left;"><b>Inspired by Medellin’s Comuna 13</b></h2>
+<p><span style="font-weight: 400;">We’ve named Comun13 after the neighborhood of Comuna 13, that has used all forms of art—from graffiti art to breakdancing and hip hop—to transform itself.</span></p>
+<p><span style="font-weight: 400;">From the late 90’s to the late 2000’s, </span><span style="font-weight: 400;"><a href="https://colombiareports.com/comuna-13-how-a-medellin-community-turned-a-war-zone-into-a-tourist-attraction/">the area was the epicenter of local conflicts</a> between guerrillas</span><span style="font-weight: 400;">, paramilitaries, and government forces. Sadly, the local residents were both witnesses and victims to these skirmishes. </span></p>
+<p><span style="font-weight: 400;">Much of the art that covers these walls is rooted in the events of this period, continuing to address issues that persist or have developed since then.</span> </p>
+<p style="text-align: left;"><span style="font-weight: 400;"><img alt='"Menos Balas, Más Sueños" art in Comuna 13, Medellin' src="//cdn.shopify.com/s/files/1/0237/9821/8832/files/MVIMG_20190720_111611_8816358c-70d3-47e8-8ee2-cbefbf192832_grande.jpg?v=1570658293" style="display: block; float: none; margin-left: auto; margin-right: auto;"></span></p>
+<p style="text-align: center;"><em>Graffiti art from Comuna 13. It says "menos balas, más sueños," which means "less bullets more dreams." </em></p>
+<h2 style="text-align: left;"><b>Escalating Connections</b></h2>
+<p><span style="font-weight: 400;">In 2011, the Medellin government installed 6 covered, outdoor escalators, which turned a steep and sweaty </span><a href="https://www.bizarreglobehopper.com/blog/2017/10/23/visit-comuna-13-medellin-independently-colombia/"><span style="font-weight: 400;">30-minute hike to a 5-minute escalator ride</span></a><span style="font-weight: 400;">. </span></p>
+<p><span style="font-weight: 400;">Comuna 13 was a natural fortress, inaccessible to both residents and non-residents alike. A simple, existing technology, that when put in the right spot became a bridge that facilitated opportunity. Residents became street performers, tour guides, and the like. </span>And the escalors also bridged the individual levels of the neighborhood, blurring territorial lines and bringing the community closer together as a single neighborhood. </p>
+<p><span>Just like those escalators unlocked existing talent and helped connect it to the rest of the city, we want to bring the artistic talent of our featured artists from the city of Medellin to international audiences. </span></p>
+<div style="text-align: left;"><img alt="Riding Comuna 13 Escalators" src="//cdn.shopify.com/s/files/1/0237/9821/8832/files/ben_escalators_grande.gif?v=1570658072" style="display: block; margin-left: auto; margin-right: auto; float: none;"></div>
+<p><span style="font-weight: 400;"> </span></p>
+<h2 style="text-align: left;"><b>It’s All in the Name</b></h2>
+<p><span style="font-weight: 400;">To pay homage to this neighborhood that inspired us so much, we adopted the name Comun13 for our brand. </span>Plus, our featured artists receive a 13% commission for every single item you buy with their designs, in addition to another 2% going to local youth organizations.</p>
+<p>We believe deeply in transparency at Comun13, and we try to reflect that in our name in addition to everything else that we do as an organization—it’s truly all in the name.</p>
+<h2 style="text-align: left;"><b>Just the Beginning</b></h2>
+<p><span style="font-weight: 400;">Our next step is to move production to Medellín and take advantage of its </span><a href="https://thebogotapost.com/made-in-medellin-local-brands-in-colombias-fashion-capital-face-an-uncertain-future/39672/"><span style="font-weight: 400;">historical textile industry and design community</span></a><span style="font-weight: 400;">. This will give us and artists further freedom to create and continuously enhance the quality of our products. </span></p>
+<p><span style="font-weight: 400;">It’ll also bring money to the local economy, give our customers better products, and hopefully reduce our production costs. </span></p>
+<p><span style="font-weight: 400;">If we can get this production established locally, we can use it as a hub while we expand the scope of Comun13 across Latin America and around the globe. There is a world of talent and creativity out there, and we want to show it to you.</span></p>
+<h3><strong>Stay Up-to-Date with Everything Comun13</strong></h3>
+<div class="privy-embed-form" data-campaign="997852"></div>]]>
+    </content>
+  </entry>
+</feed>

@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://comun13.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://comun13.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://comun13.com/collections/lmtd.atom"/>
+  <title>Comun13</title>
+  <updated>2019-10-16T14:31:46-05:00</updated>
+  <author>
+    <name>Comun13</name>
+  </author>
+  <entry>
+    <id>https://comun13.com/products/4270910570576</id>
+    <published>2019-10-16T14:31:46-05:00</published>
+    <updated>2019-10-16T14:31:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://comun13.com/products/el-primero"/>
+    <title>El Primero</title>
+    <s:type>Oct Style</s:type>
+    <s:vendor>Comun13</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0237/9821/8832/products/mockup-9be2afc4.png?v=1571254187" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Comun13<br />
+        <strong>Type: </strong>Oct Style<br />
+        <strong>Price: </strong>
+            18.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our first Limited product gets the title "El Primero". <br> <br> SIZING: Runs a bit small, but stretches over time. <br> <br> A comfortable, warm knit beanie.<br> • 60% cotton/40% acrylic</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:variant>
+      <id>https://comun13.com/products/4270910570576</id>
+      <title>Black</title>
+      <s:price currency="USD">18.40</s:price>
+      <s:sku>8461827</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comun13.com/products/4270910570576</id>
+      <title>Dark green</title>
+      <s:price currency="USD">18.40</s:price>
+      <s:sku>5014403</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comun13.com/products/4270910570576</id>
+      <title>Navy</title>
+      <s:price currency="USD">18.40</s:price>
+      <s:sku>5687140</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comun13.com/products/4270910570576</id>
+      <title>Red</title>
+      <s:price currency="USD">18.40</s:price>
+      <s:sku>1786421</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://comun13.com/products/4094454366288</id>
+    <published>2019-09-23T17:42:45-05:00</published>
+    <updated>2019-09-23T17:42:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://comun13.com/products/comuna13-tote"/>
+    <title>Comuna 13 Tote</title>
+    <s:type>Sep Style</s:type>
+    <s:vendor>Juliana &amp; Camilo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0237/9821/8832/products/mockup-d948f5b0.png?v=1569012394" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Juliana &amp; Camilo<br />
+        <strong>Type: </strong>Sep Style<br />
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>One of our original choices for a company logo. The design was so awesome that we needed to have it in our lineup.Based on an actual scene in Comuna 13 by <a href="https://comun13.com/pages/juliana-camilo" title="Juliana and Camilo link">Juliana and Camilo</a>.</p>
+<p>Sustainability meets Style with this organic cotton tote bag. Whether it's reducing plastic consumption while grocery shopping or your beach go-to, this bag won't disappoint. </p>
+<p>• 100% certified organic cotton 3/1 twill<br> • Fabric weight: 8 oz/yd² (272 g/m²)<br> • Dimensions: 16” x 14 ½” x 5”<br> • Weight limit: 30lbs (13.6 kg)<br> • 1” wide dual straps, 24 1/2" length<br> • Open main compartment</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:variant>
+      <id>https://comun13.com/products/4094454366288</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>6037939</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://comun13.com/products/4094440013904</id>
+    <published>2019-09-23T17:42:45-05:00</published>
+    <updated>2019-09-23T17:42:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://comun13.com/products/comuna13-tank"/>
+    <title>Comuna 13 Tank</title>
+    <s:type>Sep Style</s:type>
+    <s:vendor>Juliana &amp; Camilo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0237/9821/8832/products/mockup-c58fde78.png?v=1569012153" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Juliana &amp; Camilo<br />
+        <strong>Type: </strong>Sep Style<br />
+        <strong>Price: </strong>
+            26.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>One of our original choices for a company logo. The design was so awesome that we needed to have it in our lineup. Based on an actual scene in Comuna 13 by <a href="https://comun13.com/pages/juliana-camilo" title="Juliana and Camilo link">Juliana and Camilo</a>.</p>
+<p>Whether it's beating the heat or an extra layer, add a little extra to your wardrobe.</p>
+<p><br> • 100% fine jersey (heather colors contain 10% polyester)<br> • Banded arm and head holes<br> • Made in the USA, sweatshop free</p>
+<p><strong class="size-guide-title">Size guide</strong></p>
+<div class="table-responsive dynamic" data-unit-system="imperial">
+<table cellpadding="5">
+<tbody>
+<tr>
+<td> </td>
+<td><strong>XS</strong></td>
+<td><strong>S</strong></td>
+<td><strong>M</strong></td>
+<td><strong>L</strong></td>
+<td><strong>XL</strong></td>
+</tr>
+<tr>
+<td><strong>Chest (inches)</strong></td>
+<td>30-32</td>
+<td>34-36</td>
+<td>38-40</td>
+<td>42-44</td>
+<td>46-48</td>
+</tr>
+<tr>
+<td><strong>Waist (inches)</strong></td>
+<td>28-30</td>
+<td>30-32</td>
+<td>32-33</td>
+<td>33-34</td>
+<td>36-38</td>
+</tr>
+</tbody>
+</table>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Limited</s:tag>
+    <s:tag>Tank</s:tag>
+    <s:tag>Unisex</s:tag>
+    <s:variant>
+      <id>https://comun13.com/products/4094440013904</id>
+      <title>Navy / XS</title>
+      <s:price currency="USD">26.40</s:price>
+      <s:sku>4395670</s:sku>
+      <s:grams>105</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comun13.com/products/4094440013904</id>
+      <title>Navy / S</title>
+      <s:price currency="USD">26.40</s:price>
+      <s:sku>6852664</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comun13.com/products/4094440013904</id>
+      <title>Navy / M</title>
+      <s:price currency="USD">26.40</s:price>
+      <s:sku>2782169</s:sku>
+      <s:grams>116</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comun13.com/products/4094440013904</id>
+      <title>Navy / L</title>
+      <s:price currency="USD">26.40</s:price>
+      <s:sku>7128677</s:sku>
+      <s:grams>133</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comun13.com/products/4094440013904</id>
+      <title>Navy / XL</title>
+      <s:price currency="USD">26.40</s:price>
+      <s:sku>4140482</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comun13.com/products/4094440013904</id>
+      <title>Asphalt / XS</title>
+      <s:price currency="USD">26.40</s:price>
+      <s:sku>3544395</s:sku>
+      <s:grams>105</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comun13.com/products/4094440013904</id>
+      <title>Asphalt / S</title>
+      <s:price currency="USD">26.40</s:price>
+      <s:sku>2674719</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comun13.com/products/4094440013904</id>
+      <title>Asphalt / M</title>
+      <s:price currency="USD">26.40</s:price>
+      <s:sku>2799946</s:sku>
+      <s:grams>116</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comun13.com/products/4094440013904</id>
+      <title>Asphalt / L</title>
+      <s:price currency="USD">26.40</s:price>
+      <s:sku>5915780</s:sku>
+      <s:grams>133</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comun13.com/products/4094440013904</id>
+      <title>Asphalt / XL</title>
+      <s:price currency="USD">26.40</s:price>
+      <s:sku>7270903</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://comun13.com/products/4094437982288</id>
+    <published>2019-09-23T17:42:44-05:00</published>
+    <updated>2019-09-23T17:42:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://comun13.com/products/comuna13-shirt"/>
+    <title>Comuna 13 Tee</title>
+    <s:type>Sep Style</s:type>
+    <s:vendor>Juliana &amp; Camilo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0237/9821/8832/products/overlay_and_erase.png?v=1569008203" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Juliana &amp; Camilo<br />
+        <strong>Type: </strong>Sep Style<br />
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>One of our original choices for a company logo. The design was so awesome that we needed to have it in our lineup.Based on an actual scene in Comuna 13 by <a href="https://comun13.com/pages/juliana-camilo" title="Juliana and Camilo link">Juliana and Camilo</a>.</p>
+<p>The durable tri-blend fabric creates a vintage, fitted look.<br> <br> • Tri-blend construction (50% polyester/25% combed ring-spun cotton/25% rayon) <br> • 40 singles thread weight<br> • Comfortable and durable<br> • Contemporary fit<br> • Lightweight</p>
+<p><strong>Size Chart</strong></p>
+<table cellpadding="5">
+<tbody>
+<tr>
+<td> </td>
+<td><strong>XS</strong></td>
+<td><strong>S</strong></td>
+<td><strong>M</strong></td>
+<td><strong>L</strong></td>
+<td><strong>XL</strong></td>
+<td><strong>2XL</strong></td>
+</tr>
+<tr>
+<td><strong>Length (inches)</strong></td>
+<td>27</td>
+<td>28</td>
+<td>29</td>
+<td>30</td>
+<td>31</td>
+<td>32</td>
+</tr>
+<tr>
+<td><strong>Width (inches)</strong></td>
+<td>16 ½</td>
+<td>18</td>
+<td>20</td>
+<td>22</td>
+<td>24</td>
+<td>26</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:tag>Limited</s:tag>
+    <s:tag>T-shirt</s:tag>
+    <s:tag>Unisex</s:tag>
+    <s:variant>
+      <id>https://comun13.com/products/4094437982288</id>
+      <title>Black / XS</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>5052885</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comun13.com/products/4094437982288</id>
+      <title>Black / S</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>2532522</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comun13.com/products/4094437982288</id>
+      <title>Black / M</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>4251711</s:sku>
+      <s:grams>139</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comun13.com/products/4094437982288</id>
+      <title>Black / L</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>7474282</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comun13.com/products/4094437982288</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>4044555</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comun13.com/products/4094437982288</id>
+      <title>Black / 2XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>1596656</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comun13.com/products/4094437982288</id>
+      <title>Grey / XS</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>5558179</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comun13.com/products/4094437982288</id>
+      <title>Grey / S</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>9819640</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comun13.com/products/4094437982288</id>
+      <title>Grey / M</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>4081958</s:sku>
+      <s:grams>139</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comun13.com/products/4094437982288</id>
+      <title>Grey / L</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>9693931</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comun13.com/products/4094437982288</id>
+      <title>Grey / XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>4189670</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comun13.com/products/4094437982288</id>
+      <title>Grey / 2XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>2328356</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comun13.com/products/4094437982288</id>
+      <title>White / XS</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>2667424</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comun13.com/products/4094437982288</id>
+      <title>White / S</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>9944837</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comun13.com/products/4094437982288</id>
+      <title>White / M</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>3835448</s:sku>
+      <s:grams>139</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comun13.com/products/4094437982288</id>
+      <title>White / L</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>9480638</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comun13.com/products/4094437982288</id>
+      <title>White / XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>9653159</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comun13.com/products/4094437982288</id>
+      <title>White / 2XL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>8020290</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+</feed>
